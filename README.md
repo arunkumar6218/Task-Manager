@@ -19,4 +19,4 @@ This project is created for learning and practice purposes to improve skills in 
 
 📸 Preview
 
-![Task Manager Preview](Task_Manager_preview.png)
+![Task Manager Preview](Task_Manager.png)
